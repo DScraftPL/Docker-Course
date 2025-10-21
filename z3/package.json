@@ -1,0 +1,12 @@
+{
+  "name": "z3",
+  "version": "1.0.0",
+  "description": "1. Utwórz projekt korzystajać z docker init, wybierz node, npm, start aplikacji to `npm run dev`, port to 3000",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
